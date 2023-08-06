@@ -1,11 +1,21 @@
-# Swiggy Restaurant Data Analysis Hack-a-thon
-## GeeksforGeeks Hiring Data Science
+[![Anaconda](https://img.shields.io/badge/Anaconda-Open--Source%20Distribution-44A833)](https://www.anaconda.com/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Cloud--Based%20Notebook-F9AB00)](https://colab.research.google.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation%20%26%20Analysis-150458)](https://pandas.pydata.org/)
+[![Modin](https://img.shields.io/badge/Modin-Faster%20Pandas%20Operations-FD974F)](https://modin.readthedocs.io/en/latest/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting%20Library-11557C)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Graphics-7D5A9E)](https://seaborn.pydata.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811)](https://powerbi.microsoft.com/)
+[![Tabular](https://img.shields.io/badge/Tabular-Data%20Modeling-004882)](https://docs.microsoft.com/en-us/analysis-services/tabular-models/tabular-models-ssas?view=sql-server-ver15)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-E67300)](https://scikit-learn.org/stable/)
+
+# Swiggy Restaurant Data Analysis 
+## Hack-a-thon GeeksforGeeks Hiring Data Science
 **Powered By GeeksforGeeks**
 
 ![Template Theme](Media/images/template_theme.jpg)
 
 ## Introduction
-As a data scientist participating in the Swiggy Restaurant Data Analysis Hack-a-thon, you have a unique opportunity to explore and analyze real-life restaurant data from Swiggy. This dataset contains information about various restaurants listed on the Swiggy website, including details like cuisine, cost, ratings, and more. Your task is to leverage your data science skills to gain insights into the restaurant industry and present your findings in an interactive web application using Dash.
+As a software engineer participating in the Swiggy Restaurant Data Analysis Hack-a-thon, you have a unique opportunity to explore and analyze real-life restaurant data from Swiggy. This dataset contains information about various restaurants listed on the Swiggy website, including details like cuisine, cost, ratings, and more. Your task is to leverage your data science skills to gain insights into the restaurant industry and present your findings in an interactive web application using Dash.
 
 ## Overview
 In this project, we aim to perform a comprehensive data analysis of Swiggy restaurant data from all over India. By exploring the dataset, we will identify trends, popular cuisines, top-rated restaurants, and other valuable insights. We will also create an interactive web application using Dash to showcase our analysis, making it accessible and engaging for users.
@@ -37,18 +47,16 @@ As Swiggy is a leading food delivery platform with over 100,000 restaurants list
 11. Top 10 restaurants in Patna with respect to rating.
 
 ## File Structure
-Data/
-dataset.csv
-Media/
-images/
-video/
-Documentation/
-Installation/
-Scripts
-swiggy_data_analysis.ipynb
-Contributing.md
-LICENSE
-Readme.md
+
+```
+├───data
+├───Documentation
+├───Media
+│   ├───images
+│   └───videos
+└───scripts
+```
+
 
 
 ## Project Process
@@ -69,7 +77,7 @@ For the final presentation, we will create a comprehensive PowerPoint file showc
 [Presentation Link](Presentation/swiggy_data_analysis_presentation.pptx)
 
 ## License Information
-The dataset used for this analysis is available under the Creative Commons License.
+The dataset used for this analysis is available under the MIT License.
 
 ## Conclusion
 In conclusion, this data analysis project provides valuable insights into the Swiggy restaurant data from all over India. By leveraging the power of data science and visualization, we were able to identify trends, popular cuisines, top-rated restaurants, and more. The interactive web application built using Dash enhances the user experience and facilitates easy exploration of the restaurant data.
@@ -77,4 +85,3 @@ In conclusion, this data analysis project provides valuable insights into the Sw
 ## Note for the Repo
 This repository serves as a showcase of the Swiggy Restaurant Data Analysis project. It contains all the necessary files, codes, and documentation for replicating and understanding the analysis process. Feel free to explore, contribute, and use the insights and visualizations for further research and analysis.
 
-**Best of luck in your data science journey!**
