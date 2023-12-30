@@ -1,0 +1,14 @@
+# Pandas
+pandas
+
+# Modin
+modin
+
+# Matplotlib
+matplotlib
+
+# Seaborn
+seaborn
+
+# Scikit-learn
+scikit-learn
